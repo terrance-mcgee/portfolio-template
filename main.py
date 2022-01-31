@@ -1,11 +1,11 @@
 from flask import Flask, render_template, request, url_for, redirect
 app = Flask(__name__)
 
-name="Lenz Paul"
-role="Software Engineer"
-phone="+1-778-268-1456"
-email="info@lenzpaul.dev"
-location="Vancouver, BC, Canada"
+name="Terrance McGee"
+role="Cloud Engineer Fellow"
+phone="+1-504-874-0234"
+email="info@terrancemcgee.dev"
+location="New Orleans, LA, United States"
 
 
 @app.route("/")

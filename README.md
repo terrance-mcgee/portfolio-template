@@ -2,9 +2,9 @@
 
 
 <!-- TODO: Insert the link in between the parenthesis -->
-👋  Hi! I'm Lenz Paul. I'm a programmer from [Vancouver, Canada](https://www.google.com/maps/place/Vancouver,+BC/@49.2576508,-123.2639868,11z/data=!3m1!4b1!4m5!3m4!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375?hl=en).  
+👋  Hi! I'm Terrance McGee. I'm a Cloud Engineer Fellow from [New Orleans,LA](https://www.google.com/maps/place/New+Orleans,+LA/@30.0332195,-90.0226508,11z/data=!3m1!4b1!4m5!3m4!1s0x8620a454b2118265:0xdb065be85e22d3b4!8m2!3d29.9510658!4d-90.0715323).  
 
-This is the repository for [my portfolio](https://lenzpaul.dev/). 
+This is the repository for [my portfolio](https://g.dev/terrance-mcgee). 
 
 <br>
 
